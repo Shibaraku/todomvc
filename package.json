@@ -26,7 +26,6 @@
     "gulp-csso": "^0.2.9",
     "gulp-if": "^1.2.1",
     "gulp-imagemin": "1.0.0",
-    "protractor": "1.8.0",
     "gulp-jshint": "^1.6.3",
     "gulp-load-plugins": "^0.7.0",
     "gulp-rename": "^1.2.0",
@@ -39,5 +38,7 @@
     "jshint-stylish": "^1.0.0",
     "psi": "^0.1.1",
     "run-sequence": "^1.0.1"
+    "protractor": "1.8.0",
+
   }
-}
+}w
