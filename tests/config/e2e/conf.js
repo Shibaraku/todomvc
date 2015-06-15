@@ -13,4 +13,6 @@ exports.config = {
 
 	specs: ['../../stories/todo.js']
 
+	{}
+
 };

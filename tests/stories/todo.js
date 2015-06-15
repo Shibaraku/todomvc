@@ -82,5 +82,6 @@ describe('protractorTesting', function () {
 		expect(element(by.id('todo-count')).getText()).toEqual('5 items left');
 
 	})
+	{}
 
 });
